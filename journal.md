@@ -17,3 +17,8 @@ We found that implmenting some of the security recommendations had an extremely 
 # Conclusions
 Implementing 80% of the security alerts can be carried out with minimal effort and at very low cost. It is recommended that these are perfomed immediately. The other alerts can be environment dependent.
 
+# Figures
+This is the range of data:
+Not Encrypted 7
+Not Redundant 5
+Not firewalled 3
