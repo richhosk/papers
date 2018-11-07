@@ -2,8 +2,8 @@
 Investigation into Security Alerts and Key Vault Permissions in Cloud Computing
 
 # Author
-Richard Hoskins
-Terry Smith
+Richard Hoskins, University of Manchester
+Terry Smith, University of Liverpool
 
 # Abstract
 Here we write a shor summary of the paper and the principal results.
