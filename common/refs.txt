@@ -1,0 +1,3 @@
+Johnson et al 2017 Improving Security in the Cloud.
+
+Charlton et al 2016 Can the Cloud Protect my Data.
