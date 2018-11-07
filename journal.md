@@ -22,3 +22,7 @@ This is the range of data:
 Not Encrypted 7
 Not Redundant 5
 Not firewalled 3
+
+# Acknowledgements
+
+The authors are grateful for the sponsorship that was provided by the backers of this project
