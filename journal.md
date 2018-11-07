@@ -14,6 +14,6 @@ Terry has investigated thoroughly the security breaches possible in cloud comput
 # Results
 We found that implmenting some of the security recommendations had an extremely low overhead and could be applied at zero cost.
 
-#Conclusions
+# Conclusions
 Implementing 80% of the security alerts can be carried out with minimal effort and at very low cost. It is recommended that these are perfomed immediately. The other alerts can be environment dependent.
 
