@@ -11,5 +11,9 @@ We have been receiving a number of warning messages via the Azure Portal. An inv
 # Security Concerns
 Terry has investigated thoroughly the security breaches possible in cloud computing and safe storage of passwords. We combined this work with an investigation into the automatic alerts that are generated.
 
+# Results
+We found that implmenting some of the security recommendations had an extremely low overhead and could be applied at zero cost.
+
 #Conclusions
 Implementing 80% of the security alerts can be carried out with minimal effort and at very low cost. It is recommended that these are perfomed immediately. The other alerts can be environment dependent.
+
